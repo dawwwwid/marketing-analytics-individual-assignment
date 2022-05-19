@@ -1,0 +1,7 @@
+- model_name: 'Logistic'
+  learning_rate: 0.01
+  iterations: 1500
+  train_df: '../data/train.csv'
+  test_df: '../data/test.csv'
+  results: '../results/results.csv'
+  predicted: '../results/predicted.csv'
